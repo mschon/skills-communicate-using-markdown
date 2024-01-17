@@ -20,5 +20,10 @@ example intro
 ## My Second Example Subheader
 other subsection stuff goes here
 
+stuff I need to do:
+- [ ] homework assignment
+- [ ] write some code
+- [ ] write documentation
+
 here's an example image:
 ![Image of Plumber](https://octodex.github.com/images/plumber.jpg)
